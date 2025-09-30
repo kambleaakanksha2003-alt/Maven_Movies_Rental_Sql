@@ -11,5 +11,8 @@ The MAVENMOVIES project involves performing in-depth analysis of the company’s
 - 📊 Analyze rental behavior to improve customer engagement.
 
  ### 🎮 Movie Inventory Optimization
+ - 🛆 Evaluate rental inventory and categorize movies based on rental rates and availability.
+- 🔍 Suggest recommendations for expanding the movie collection based on popularity and rental trends.
+
 
 
