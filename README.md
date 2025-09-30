@@ -32,6 +32,11 @@ The MAVENMOVIES project involves performing in-depth analysis of the company’s
 
  ---
 
+ # Movies Rental Data Queries
+
+This repository contains SQL queries and corresponding visualizations for analyzing the Movies Rental dataset.
+
+
 
 
 
