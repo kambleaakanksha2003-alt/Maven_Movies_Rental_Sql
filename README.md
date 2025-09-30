@@ -10,3 +10,6 @@ The MAVENMOVIES project involves performing in-depth analysis of the company’s
 - 📌 Identify customer details (names, emails) to enhance targeted marketing campaigns.
 - 📊 Analyze rental behavior to improve customer engagement.
 
+ ### 🎮 Movie Inventory Optimization
+
+
