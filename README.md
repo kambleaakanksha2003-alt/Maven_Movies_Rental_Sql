@@ -7,3 +7,6 @@ The MAVENMOVIES project involves performing in-depth analysis of the company’s
 ## 🎯 Project Goals
 
 ### 🛒 Customer Insights
+- 📌 Identify customer details (names, emails) to enhance targeted marketing campaigns.
+- 📊 Analyze rental behavior to improve customer engagement.
+
