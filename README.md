@@ -14,5 +14,11 @@ The MAVENMOVIES project involves performing in-depth analysis of the company’s
  - 🛆 Evaluate rental inventory and categorize movies based on rental rates and availability.
 - 🔍 Suggest recommendations for expanding the movie collection based on popularity and rental trends.
 
+- ### 💰 Revenue Enhancement
+- - 📈 Examine rental pricing trends to identify profitable pricing strategies.
+- 🎥 Determine the most rented movie categories and ratings to maximize earnings.
+
+
+
 
 
