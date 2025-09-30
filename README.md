@@ -26,6 +26,10 @@ The MAVENMOVIES project involves performing in-depth analysis of the company’s
 
 ---
 
+## 🛠️ Tools & Technologies Used
+- *SQL* – Data extraction, transformation, and querying
+- *MAVENMOVIES Database* – Source of movie rental data
+
 
 
 
