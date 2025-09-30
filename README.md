@@ -2,3 +2,4 @@
 ![Project Banner](https://github.com/Sayali821/Mavenmovies/blob/200eb076804152c5e1ba46638a60a3a5d01c34c1/banner.jpg)
 
 ## 📌 Project Overview
+The MAVENMOVIES project involves performing in-depth analysis of the company’s movie rental database to generate insights that can guide business growth and decision-making. With the help of SQL queries, exploratory data analysis (EDA) is carried out to understand the database structure, relationships between tables, and hidden patterns in the data.
