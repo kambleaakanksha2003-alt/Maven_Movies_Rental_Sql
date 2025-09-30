@@ -24,7 +24,7 @@ The MAVENMOVIES project involves performing in-depth analysis of the company’s
 - - 📌 Track and manage movie inventory efficiently.
 - 📉 Identify inventory gaps and optimize stock levels.
 
-- 
+---
 
 
 
