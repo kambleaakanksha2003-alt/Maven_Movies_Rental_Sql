@@ -98,7 +98,8 @@ Retrieve customer first name, last name, and email ID.
 <img width="457" height="131" alt="image" src="https://github.com/user-attachments/assets/51a76f07-d213-4570-96a1-32777edcaedb" />
 
 ### 15. Payments Over $5 for Specific Customers
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/PAYMENTS_OVER_%245.png)
+<img width="457" height="301" alt="image" src="https://github.com/user-attachments/assets/712b523f-9918-4bb1-b119-3b28d824a043" />
+
 
 ### 16. Films with 'Behind the Scenes' Special Feature
 ![Behind the Scenes Films](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/BTS.png)
