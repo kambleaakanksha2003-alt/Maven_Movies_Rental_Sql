@@ -135,7 +135,7 @@ Retrieve customer first name, last name, and email ID.
 <img width="705" height="293" alt="image" src="https://github.com/user-attachments/assets/894645b0-26c8-4088-bbd0-9212ace70601" />
 
 ### 26. Actor Movie Count
-![Actor Movie Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/NO_OF_FILMS_BY_ACTOR.png)
+<img width="483" height="306" alt="image" src="https://github.com/user-attachments/assets/17a16efc-e12a-420a-96d6-f9cefa79c214" />
 
 ### 27. Number of Actors per Film
 ![Actors per Title](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/ACTOR_ASSOCIATED_WITH_TITLE.png)
