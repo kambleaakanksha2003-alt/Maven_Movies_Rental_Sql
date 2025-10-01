@@ -74,7 +74,8 @@ Retrieve customer first name, last name, and email ID.
 
 
 ### 8. Top 10 Grossing Films
-![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
+<img width="307" height="246" alt="image" src="https://github.com/user-attachments/assets/dd92b02f-912a-4371-9c61-54f7c25f04f5" />
+
 
 ### 9. Highest Spending Customer
 ![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
