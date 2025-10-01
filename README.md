@@ -85,7 +85,7 @@ Retrieve customer first name, last name, and email ID.
 <img width="235" height="73" alt="image" src="https://github.com/user-attachments/assets/ecb863c0-5005-4d0c-af50-7c8c08a5b886" />
 
 ### 11. Monthly Rentals Count
-![Rentals Per Month](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/RENTALS_PER_MONTH.png)
+<img width="375" height="152" alt="image" src="https://github.com/user-attachments/assets/1eeaeaff-e964-49c4-9944-4f0777732536" />
 
 ### 12. Customers Eligible for Rewards
 ![Reward Eligible Customers](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REWARD_VIA_PHONE.png)
