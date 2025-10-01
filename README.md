@@ -114,7 +114,7 @@ Retrieve customer first name, last name, and email ID.
 <img width="848" height="142" alt="image" src="https://github.com/user-attachments/assets/735dad17-3a36-4cec-93c8-7a46a086f897" />
 
 ### 20. Film Count by Replacement Cost with Rental Rates
-![Replacement Cost Analysis](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MIN_MAX_AVG.png)
+<img width="742" height="306" alt="image" src="https://github.com/user-attachments/assets/022e564f-ee86-440f-8538-201e4870f23f" />
 
 ### 21. Customers with Less Than 15 Rentals
 ![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
