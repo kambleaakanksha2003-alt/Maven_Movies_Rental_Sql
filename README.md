@@ -141,7 +141,7 @@ Retrieve customer first name, last name, and email ID.
 <img width="351" height="302" alt="image" src="https://github.com/user-attachments/assets/1f6e34be-201a-4b0f-877c-5c5ea8bd9a21" />
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
+<img width="347" height="175" alt="image" src="https://github.com/user-attachments/assets/1165c55c-b058-4b75-b9f2-602a6e65820b" />
 
 ---
 
