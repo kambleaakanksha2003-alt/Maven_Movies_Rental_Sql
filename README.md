@@ -128,7 +128,8 @@ Retrieve customer first name, last name, and email ID.
 ![Movies Categorized by Length](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
 
 ### 24. Movie Recommendations by Age Group
-![Age-Based Recommendations](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIT_FOR_RECOMMENDATION.png)
+<img width="478" height="295" alt="image" src="https://github.com/user-attachments/assets/e0588913-fd9c-45db-a158-0ab8db9b3b47" />
+
 
 ### 25. Films Inventory List
 ![Films in Inventory](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FILMS_IN_INVENTORY.png)
