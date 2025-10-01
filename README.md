@@ -117,7 +117,8 @@ Retrieve customer first name, last name, and email ID.
 <img width="742" height="306" alt="image" src="https://github.com/user-attachments/assets/022e564f-ee86-440f-8538-201e4870f23f" />
 
 ### 21. Customers with Less Than 15 Rentals
-![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
+<img width="257" height="112" alt="image" src="https://github.com/user-attachments/assets/bacfde63-82d1-45c1-a84b-762bf70cbe07" />
+
 
 ### 22. Longest Films Sorted by Length and Rental Rate
 <img width="371" height="300" alt="image" src="https://github.com/user-attachments/assets/aa9a220d-30eb-4c8b-b1de-4dcaac891759" />
