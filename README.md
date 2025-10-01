@@ -70,7 +70,8 @@ Retrieve customer first name, last name, and email ID.
 <img width="437" height="306" alt="image" src="https://github.com/user-attachments/assets/dd969440-5971-42f9-8801-f8f2d37eb359" />
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/popularity.png)
+<img width="302" height="296" alt="image" src="https://github.com/user-attachments/assets/764a0fa2-201f-4bcc-bb4d-a2a62fd74728" />
+
 
 ### 8. Top 10 Grossing Films
 ![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
