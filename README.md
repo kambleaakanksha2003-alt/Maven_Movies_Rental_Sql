@@ -54,19 +54,20 @@ Retrieve customer first name, last name, and email ID.
 <img width="498" height="222" alt="image" src="https://github.com/user-attachments/assets/5ee2f8e5-208f-4286-927a-3d35b8b169a5" />
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
+<img width="193" height="55" alt="image" src="https://github.com/user-attachments/assets/cda3201e-071c-44a8-8da4-9cf26519fd27" />
 
 ### 3. Rental Rate Distribution and Movie Count
-![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
+<img width="273" height="102" alt="image" src="https://github.com/user-attachments/assets/dd63a2ce-c214-41e3-9dba-fe72912b0b46" />
+
 
 ### 4. Most Common Movie Rating
-![Rating Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/rating_wise_count.png)
+<img width="297" height="133" alt="image" src="https://github.com/user-attachments/assets/f459f539-8f63-4899-ada0-ba8b10c3803b" />
 
 ### 5. Most Prevalent Rating per Store
-![Rating per Store](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/rating_to_store.png)
+<img width="275" height="245" alt="image" src="https://github.com/user-attachments/assets/5686dfc4-0933-40f5-95c3-96bea782a41e" />
 
 ### 6. List of Films by Name, Category, and Language
-![Film List](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TLC.png)
+<img width="437" height="306" alt="image" src="https://github.com/user-attachments/assets/dd969440-5971-42f9-8801-f8f2d37eb359" />
 
 ### 7. Movie Rental Frequency
 ![Rental Popularity](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/popularity.png)
