@@ -105,7 +105,7 @@ Retrieve customer first name, last name, and email ID.
 <img width="511" height="297" alt="image" src="https://github.com/user-attachments/assets/538c3f53-6090-4aba-b6bb-c0434fad52da" />
 
 ### 17. Unique Movie Ratings and Count
-![Unique Ratings](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNI_MOVIES_RATINGS_%26_NO_OF_MOVIES.png)
+<img width="235" height="136" alt="image" src="https://github.com/user-attachments/assets/1683353a-432b-4d9a-b49f-a82d66617a6e" />
 
 ### 18. Titles Count by Rental Duration
 ![Rental Duration Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
