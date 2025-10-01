@@ -12,7 +12,7 @@ To identify high-performing movies, categories, and actors.
 
 To study revenue patterns across locations and time periods.
 
-To provide actionable insights for marketing and inventory planning.
+
 ---
 
 ## 🎯 Project Goals
