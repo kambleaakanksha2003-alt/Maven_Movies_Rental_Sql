@@ -1,5 +1,5 @@
 # Maven_Movies_Rental_Sql
-![Project Banner](https://www.facebook.com/photo.php?fbid=417306623835367&set=a.417306593835370&type=3&from_lookaside=1)
+![Project Banner](https://in.images.search.yahoo.com/yhs/search;_ylt=AwrKGLK889xoOzYLxh0O9olQ;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMTM1MTIxODcwMgRfcgMyBGZyA3locy1pbWFnZWFkdmFuLWltYWdlYWR2YW5fc3dpdGNoBGZyMgNwOnMsdjppLG06c2ItdG9wBGdwcmlkA2RjMC5maG9TVGtxeTk2MFJ5dXdCQkEEbl9yc2x0AzAEbl9zdWdnAzYEb3JpZ2luA2luLmltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDMARxc3RybAMxNwRxdWVyeQNtYXZlbiUyMG1vdmllcyUyMGxvZ28EdF9zdG1wAzE3NTkzMTA4MTA-?p=maven+movies+logo&fr=yhs-imageadvan-imageadvan_switch&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=251_pc.typedin.smse_127082&hsimp=yhs-imageadvan_switch&hspart=imageadvan#id=0&iurl=https%3A%2F%2Fs3-ap-southeast-2.amazonaws.com%2Fyc.cldmlk.com%2Fcr5yq74vbk3rhe6w7e0x23q0gr%2Fuploads%2F1693527444707_maven.png&action=click)
 
 ## 📌 Project Overview
 The MAVENMOVIES project involves performing in-depth analysis of the company’s movie rental database to generate insights that can guide business growth and decision-making. With the help of SQL queries, exploratory data analysis (EDA) is carried out to understand the database structure, relationships between tables, and hidden patterns in the data.
