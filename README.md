@@ -78,7 +78,8 @@ Retrieve customer first name, last name, and email ID.
 
 
 ### 9. Highest Spending Customer
-![Most Spending Customer](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_SPENDING_CUSTOMER.png)
+<img width="417" height="62" alt="image" src="https://github.com/user-attachments/assets/3ffb0708-4ad7-4ebd-8476-0d14175612b6" />
+
 
 ### 10. Store with Most Revenue
 <img width="269" height="94" alt="Screenshot 2025-10-01 152820" src="https://github.com/user-attachments/assets/7637e0c8-92b7-4940-8612-d74622d2a84d" />
