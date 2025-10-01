@@ -132,7 +132,7 @@ Retrieve customer first name, last name, and email ID.
 
 
 ### 25. Films Inventory List
-![Films in Inventory](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FILMS_IN_INVENTORY.png)
+<img width="705" height="293" alt="image" src="https://github.com/user-attachments/assets/894645b0-26c8-4088-bbd0-9212ace70601" />
 
 ### 26. Actor Movie Count
 ![Actor Movie Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/NO_OF_FILMS_BY_ACTOR.png)
