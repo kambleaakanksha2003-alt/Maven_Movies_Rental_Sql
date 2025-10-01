@@ -120,7 +120,8 @@ Retrieve customer first name, last name, and email ID.
 ![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
 
 ### 22. Longest Films Sorted by Length and Rental Rate
-![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
+<img width="371" height="300" alt="image" src="https://github.com/user-attachments/assets/aa9a220d-30eb-4c8b-b1de-4dcaac891759" />
+
 
 ### 23. Categorization of Movies by Length
 ![Movies Categorized by Length](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
