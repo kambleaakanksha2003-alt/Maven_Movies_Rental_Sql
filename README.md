@@ -4,6 +4,15 @@
 ## 📌 Project Overview
 The MAVENMOVIES project involves performing in-depth analysis of the company’s movie rental database to generate insights that can guide business growth and decision-making. With the help of SQL queries, exploratory data analysis (EDA) is carried out to understand the database structure, relationships between tables, and hidden patterns in the data.
 
+The main objectives of this project are:
+
+To analyze customer preferences and rental behavior.
+
+To identify high-performing movies, categories, and actors.
+
+To study revenue patterns across locations and time periods.
+
+To provide actionable insights for marketing and inventory planning.
 ---
 
 ## 🎯 Project Goals
