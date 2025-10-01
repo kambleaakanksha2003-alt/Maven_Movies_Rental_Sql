@@ -95,7 +95,7 @@ Retrieve customer first name, last name, and email ID.
 <img width="448" height="307" alt="image" src="https://github.com/user-attachments/assets/3bbe64f1-b564-49e1-8934-bc4a684d4f8c" />
 
 ### 14. Payments Over $5 Since Jan 1, 2006
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/JAN_06_2006.png)
+<img width="457" height="131" alt="image" src="https://github.com/user-attachments/assets/51a76f07-d213-4570-96a1-32777edcaedb" />
 
 ### 15. Payments Over $5 for Specific Customers
 ![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/PAYMENTS_OVER_%245.png)
