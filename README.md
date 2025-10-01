@@ -1,4 +1,4 @@
-# Maven_Movies_Rental_Sql
+# 🎬 Maven Movies: Unlocking Insights for a Rental Business
 ![Project Banner](https://yt3.googleusercontent.com/kAXlqoSRuF36jvLG88EgH6kUM5ZF_S3HWI3UT4fz127EiobJlzcQy3Pn8iCfHlAJu-ljUT4G=s900-c-k-c0x00ffffff-no-rj)
 
 
