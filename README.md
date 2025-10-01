@@ -82,8 +82,7 @@ Retrieve customer first name, last name, and email ID.
 
 
 ### 10. Store with Most Revenue
-<img width="269" height="94" alt="Screenshot 2025-10-01 152820" src="https://github.com/user-attachments/assets/7637e0c8-92b7-4940-8612-d74622d2a84d" />
-
+<img width="235" height="73" alt="image" src="https://github.com/user-attachments/assets/ecb863c0-5005-4d0c-af50-7c8c08a5b886" />
 
 ### 11. Monthly Rentals Count
 ![Rentals Per Month](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/RENTALS_PER_MONTH.png)
