@@ -102,7 +102,7 @@ Retrieve customer first name, last name, and email ID.
 
 
 ### 16. Films with 'Behind the Scenes' Special Feature
-![Behind the Scenes Films](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/BTS.png)
+<img width="511" height="297" alt="image" src="https://github.com/user-attachments/assets/538c3f53-6090-4aba-b6bb-c0434fad52da" />
 
 ### 17. Unique Movie Ratings and Count
 ![Unique Ratings](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNI_MOVIES_RATINGS_%26_NO_OF_MOVIES.png)
