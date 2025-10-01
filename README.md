@@ -88,7 +88,8 @@ Retrieve customer first name, last name, and email ID.
 <img width="375" height="152" alt="image" src="https://github.com/user-attachments/assets/1eeaeaff-e964-49c4-9944-4f0777732536" />
 
 ### 12. Customers Eligible for Rewards
-![Reward Eligible Customers](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REWARD_VIA_PHONE.png)
+<img width="710" height="296" alt="image" src="https://github.com/user-attachments/assets/efeb079e-5b9f-461f-9691-4ccd0054909f" />
+
 
 ### 13. Payments from First 100 Customers
 ![First 100 Customer Payments](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIRST_100_CUSTOMER_PAYMENTS.png)
